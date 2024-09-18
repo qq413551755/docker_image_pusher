@@ -1,1 +1,1 @@
-redis
+jdk:17
