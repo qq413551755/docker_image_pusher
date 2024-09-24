@@ -1,1 +1,1 @@
-jmeter:5.6.3
+openjdk:17
