@@ -1,1 +1,1 @@
-jenkins:lts
+jenkins/jenkins
